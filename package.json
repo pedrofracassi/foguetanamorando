@@ -1,0 +1,15 @@
+{
+  "name": "foguetanamorando",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@flydotio/dockerfile": "^0.5.8",
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@atproto/api": "^0.13.5"
+  }
+}
